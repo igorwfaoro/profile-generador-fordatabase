@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "delay": "^5.0.0",
+    "random-profile-generator": "^2.3.0",
+    "user-generator": "^1.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "name": "user-generator",
+  "version": "1.0.0",
+  "description": "A random profiles generator using the https://randomuser.me/ api",
+  "main": "index.js",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joffreyverd/user-generator.git"
+  },
+  "keywords": [
+    "random",
+    "profile",
+    "generator",
+    "random-profiles",
+    "user-profiles",
+    "user",
+    "generator"
+  ],
+  "author": "Joffrey VERD",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joffreyverd/user-generator/issues"
+  },
+  "homepage": "https://github.com/joffreyverd/user-generator#readme",
+  "dependencies": {}
+}
